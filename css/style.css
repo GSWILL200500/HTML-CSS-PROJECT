@@ -85,7 +85,7 @@ a {
   text-align: center;
   margin: 10px 0 20px;
 }
-input {
+.login-input {
   display: block;
   height: 30px;
   border-radius: 10px;
